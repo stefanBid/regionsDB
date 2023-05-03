@@ -2,83 +2,83 @@
     "regions":[
         {
             "name":"Abruzzo",
-            "populations":1269860
+            "population":1269860
         },
         {
             "name":"Basilicata",
-            "populations":536659
+            "population":536659
         },
         {
             "name":"Calabria",
-            "populations":1841300
+            "population":1841300
         },
         {
             "name":"Campania",
-            "populations":5592175
+            "population":5592175
         },
         {
             "name":"Emilia-Romagna",
-            "populations":4426929
+            "population":4426929
         },
         {
             "name":"Friuli Venezia Giulia",
-            "populations":1192191
+            "population":1192191
         },
         {
             "name":"Lazio",
-            "populations":5707112
+            "population":5707112
         },
         {
             "name":"Liguria",
-            "populations":1502624
+            "population":1502624
         },
         {
             "name":"Lombardia",
-            "populations":9950742
+            "population":9950742
         },
         {
             "name":"Marche",
-            "populations":1480839
+            "population":1480839
         },
         {
             "name":"Molise",
-            "populations":289840
+            "population":289840
         },
         {
             "name":"Piemonte",
-            "populations":4240736
+            "population":4240736
         },
         {
             "name":"Puglia",
-            "populations":4240736
+            "population":4240736
         },
         {
             "name":"Sardegna",
-            "populations":1575028
+            "population":1575028
         },
         {
             "name":"Sicilia",
-            "populations":4802016
+            "population":4802016
         },
         {
             "name":"Toscana",
-            "populations":3651152
+            "population":3651152
         },
         {
             "name":"Trentino-Alto Adige",
-            "populations":1075317
+            "population":1075317
         },
         {
             "name":"Umbria",
-            "populations":854137
+            "population":854137
         },
         {
             "name":"Valle d'Aosta",
-            "populations":122955
+            "population":122955
         },
         {
             "name":"Veneto",
-            "populations":4838253
+            "population":4838253
         }  
     ]
 }
